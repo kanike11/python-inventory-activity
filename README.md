@@ -1,6 +1,5 @@
 # python-inventory-activity
 
-
 ## Activity Title
 Activity 1 - Python Inventory System
 
@@ -14,4 +13,4 @@ Create a basic inventory management program in Python that utilizes lists and di
 ``Kent Leonel C. Sevellino``
 
 ## Screenshot of running program
-![MySampleOutput](image\Screenshot Output.png)
+![MySampleOutput](image\Screenshot_Outputpng.png)
