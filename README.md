@@ -7,7 +7,7 @@ Activity 1 - Python Inventory System
 Create a basic inventory management program in Python that utilizes lists and dictionaries to store and manage data
 
 ## Sample Output
-![My Sample Output](output.png)
+![My Sample Output](ouput.png)
 
 ## Full Name
 ``Kent Leonel C. Sevellino``
