@@ -13,4 +13,4 @@ Create a basic inventory management program in Python that utilizes lists and di
 ``Kent Leonel C. Sevellino``
 
 ## Screenshot of running program
-![My Sample Output](image/Screenshot_Outputpng.png)
+![My Sample Output](image/gitScreenshot_Outputpng.png)
